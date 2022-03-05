@@ -4,28 +4,35 @@ using namespace std;
 
 int main()
 {
-  int t = 1;
-  // cin >> t;
+  long long t;
+  cin >> t;
   while (t--)
   {
-    int n;
-    // cin >> n;
-    int a[5] = {1000000000, 1000000000, 1000000000, 1000000000, 1000000000};
-    // for (int i = 0; i < n; i++)
-    // cin >> a[i];
+    long long n;
+    cin >> n;
+    long long a[n];
+    for (long long i = 0; i < n; i++)
+      cin >> a[i];
     sort(a, a + n);
 
-    int sum1 = 0, sum2 = 0;
-
-    for (int i = 0; i <= n / 2; i++)
+    long long sum1 = a[0] + a[1], sum2 = a[n - 1];
+    int start = 2;
+    int end = n - 2;
+    while (start < end)
     {
-      sum1 += a[i];
+      if (sum1 < sum2)
+      {
+        break;
+      }
+      else
+      {
+        sum1 += a[start];
+        sum2 += a[end];
+        start++;
+        end--;
+      }
     }
-    for (int j = (n / 2) + 1; j < n; j++)
-    {
-      sum2 += a[j];
-    }
-    if (sum2 > sum1)
+    if (sum1 < sum2)
       cout << "YES" << endl;
     else
       cout << "NO" << endl;
