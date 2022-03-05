@@ -16,17 +16,20 @@ int main()
     {
       pq.push(i);
     }
-    while (n != 1)
+    cout << 2 << endl;
+    while (pq.size() > 1)
     {
       int a = pq.top();
       pq.pop();
       int b = pq.top();
       pq.pop();
       cout << a << " " << b << endl;
-      pq.push(ceil((a + b) / 2));
-      n--;
+      int c = a + b;
+      if (c & 1)
+        c++;
+      c /= 2;
+      pq.push(c);
     }
-    // cout <<endl;
   }
   return 0;
 }
