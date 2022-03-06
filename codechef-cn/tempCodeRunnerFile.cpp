@@ -1,1 +1,2 @@
-int f = u * u - 2 * a * s;
+while ()
+  //   ans += ans;
