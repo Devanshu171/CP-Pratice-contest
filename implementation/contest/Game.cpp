@@ -14,18 +14,14 @@ int main()
     {
       cin >> a[i];
     }
-    int last1 = n - 2;
-    int coins = 0;
-    for (int j = n - 2; j >= 0; j++)
-    {
-      if (a[j] == 1)
-      {
-        if (j != last1 - 1)
-          coins += last1 - j;
-        last1 = j;
-      }
-    }
-    cout << coins << endl;
+    int last0 = n - 1;
+    int first0 = 0;
+    while (last0 >= 0 && a[last0 - 1] != 0)
+      last0--;
+    while (first0 < n && a[first0 + 1] != 0)
+      first0++;
+
+    cout << max(0, last0 - first0) << endl;
   }
   return 0;
 }
