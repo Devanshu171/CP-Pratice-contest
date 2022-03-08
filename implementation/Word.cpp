@@ -17,7 +17,7 @@ int main()
   if (lo < up)
     transform(s.begin(), s.end(), s.begin(), ::toupper);
   else
-    transform(s.begin(), s.end(), s.begin(), ::toupper);
+    transform(s.begin(), s.end(), s.begin(), ::tolower);
 
   cout << s;
 
