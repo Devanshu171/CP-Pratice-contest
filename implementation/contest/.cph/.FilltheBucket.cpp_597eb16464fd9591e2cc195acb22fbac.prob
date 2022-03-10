@@ -1,0 +1,1 @@
+{"name":"Local: FilltheBucket","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\contest\\FilltheBucket.cpp","tests":[{"id":1646836387232,"input":"2\n5 4\n15 6\n","output":"1\n9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\contest\\FilltheBucket.cpp","group":"local","local":true}
