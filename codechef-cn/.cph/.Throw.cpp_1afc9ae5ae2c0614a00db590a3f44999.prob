@@ -1,0 +1,1 @@
+{"name":"Local: Throw","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\Throw.cpp","tests":[{"id":1646991254437,"input":"3\n10 15 8\n32 32 32\n82 45 54\n","output":"15\n32\n82\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\Throw.cpp","group":"local","local":true}

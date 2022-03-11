@@ -1,0 +1,1 @@
+{"name":"Local: andMathDad","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\andMathDad.cpp","tests":[{"id":1647009780012,"input":"5\n1\n2\n3\n4\n5\n","output":"1\n2\n21\n121\n212\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\andMathDad.cpp","group":"local","local":true}
