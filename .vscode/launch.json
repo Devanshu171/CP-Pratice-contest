@@ -19,9 +19,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/devanshu sharma/Desktop/cp/implementation",
+      "cwd": "c:/Users/devanshu sharma/Desktop/cp/codechef-cn",
       "environment": [],
-      "program": "c:/Users/devanshu sharma/Desktop/cp/implementation/build/Debug/outDebug",
+      "program": "c:/Users/devanshu sharma/Desktop/cp/codechef-cn/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",

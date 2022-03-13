@@ -1,0 +1,1 @@
+{"name":"Local: ExactMarks","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\ExactMarks.cpp","tests":[{"id":1647094793023,"input":"3\n10 30\n9 25\n8 0\n","output":"YES\n10 0 0\nNO\nYES\n1 3 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\codechef-cn\\ExactMarks.cpp","group":"local","local":true}
