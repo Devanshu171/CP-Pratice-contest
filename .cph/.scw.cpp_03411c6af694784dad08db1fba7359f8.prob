@@ -1,0 +1,1 @@
+{"name":"Local: scw","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\scw.cpp","tests":[{"id":1647442455676,"input":"3\n4\nacbd\n3\nccc\n3\nbza","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\scw.cpp","group":"local","local":true}

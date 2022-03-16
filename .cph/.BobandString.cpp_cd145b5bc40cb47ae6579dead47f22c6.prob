@@ -1,0 +1,1 @@
+{"name":"Local: BobandString","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\BobandString.cpp","tests":[{"id":1647277089688,"input":"4\nabc\ncba\nabd\nacb\ntalentpad\ntalepdapd\ncode\nroad","output":"0\n2\n4\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\BobandString.cpp","group":"local","local":true}

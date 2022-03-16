@@ -1,0 +1,1 @@
+{"name":"Local: oathofthenight","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\oathofthenight.cpp","tests":[{"id":1647192228775,"input":"2\n1 5\n","output":"0"},{"id":1647192236931,"input":"3\n1 2 5\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\oathofthenight.cpp","group":"local","local":true}

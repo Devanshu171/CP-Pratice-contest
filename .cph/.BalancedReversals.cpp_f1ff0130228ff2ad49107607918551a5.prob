@@ -1,0 +1,1 @@
+{"name":"Local: BalancedReversals","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\BalancedReversals.cpp","tests":[{"id":1647442827949,"input":"2\n5\n01100\n4\n0000","output":"00011\n0000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\BalancedReversals.cpp","group":"local","local":true}
