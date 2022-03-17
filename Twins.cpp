@@ -24,6 +24,7 @@ int main()
     ans++;
     if (sum < sum2)
       break;
+    i--;
   }
   cout << ans << endl;
   return 0;

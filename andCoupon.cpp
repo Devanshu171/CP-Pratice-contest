@@ -16,11 +16,12 @@ int main()
     }
     sort(ar, ar + n);
     int i = 0;
-    while (i < n && ceil(ar[i] / 2) <= k)
+    // cout << ((ar[i] + 1) / 2) << " " << k << endl;
+    while (i < n && ((ar[i] + 1) / 2) <= k)
     {
 
-      i++;
       k -= ar[i];
+      i++;
     }
 
     cout << i << endl;
