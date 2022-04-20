@@ -1,0 +1,1 @@
+{"name":"Local: FancyFence","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\FancyFence.cpp","tests":[{"id":1648232440421,"input":"3\n30\n60\n90\n","output":"NO\nYES\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\FancyFence.cpp","group":"local","local":true}

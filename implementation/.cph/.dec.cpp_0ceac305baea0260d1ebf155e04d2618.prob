@@ -1,0 +1,1 @@
+{"name":"Local: dec","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\dec.cpp","tests":[{"id":1648911760635,"input":"3\n4 2 3\n6 2 1\n5 2 5\n","output":"2\n1\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\dec.cpp","group":"local","local":true}

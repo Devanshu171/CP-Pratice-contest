@@ -1,0 +1,1 @@
+{"name":"Local: sdkgfajdsf","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\sdkgfajdsf.cpp","tests":[{"id":1648910059414,"input":"3\n3\n115\n3\n103\n3\n119\n","output":"Yes\nYes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\sdkgfajdsf.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Carvans","url":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\Carvans.cpp","tests":[{"id":1648143660244,"input":"3\n1\n10\n3\n8 3 6\n5\n4 5 1 2 3","output":"1\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\devanshu sharma\\Desktop\\cp\\implementation\\Carvans.cpp","group":"local","local":true}
