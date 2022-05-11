@@ -15,17 +15,15 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [
-        ""
-      ],
+      "args": [],
       "stopAtEntry": false,
-      "cwd": "c:/Users/devanshu sharma/Desktop/cp/implementation",
+      "cwd": "c:/Users/devanshu sharma/Desktop/cp",
       "environment": [],
-      "program": "c:/Users/devanshu sharma/Desktop/cp/implementation/build/Debug/outDebug",
+      "program": "c:/Users/devanshu sharma/Desktop/cp/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
-      "externalConsole": false,
+      "console": "integratedTerminal",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
